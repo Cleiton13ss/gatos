@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background: url(../imagens/fundo.jpeg);
+}
+.titulo{
+    text-align: center;
+    color: aliceblue;
+    padding: 0%;
+    right: 30px;
+    left: 30px;
+    border: solid 2px;  
+
+}
+.coisasgato{
+    text-align: center;
+    color: aliceblue;
+    padding: 0%;
+    right: 30px;
+    left: 30px;
+    border: solid 2px; 
+}
+.coisas{
+    text-align: center;
+    color: aliceblue;
+    padding: 0%;
+    right: 30px;
+    left: 30px;
+    font-size: 20px;
+}
+.gato{
+    text-align: center;    
+}
+.descricao{
+    color: aliceblue;
+    font-size: 20px;
+    padding: 0%;
+    right: 30px;
+    left: 30px;
+    border: solid 2px;
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+
+
+
